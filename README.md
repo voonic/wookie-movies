@@ -2,4 +2,4 @@
 
 ### A basic movies app in react-native
 
-![Home](./screenshots/Home.png)
+![Home](./screenshots/index.jpg)
