@@ -1,0 +1,13 @@
+{
+  "year": "Year",
+  "length": "Length",
+  "director": "Director",
+  "cast": "Cast",
+  "overview": "Overview",
+  "imdb_rating": "IMDB Rating",
+  "movies": "Movies",
+  "search": "Search",
+  "favorites": "Favorites",
+  "nothing_here": "Nothing Here",
+  "no_movies_found": "No Movies Found"
+}
